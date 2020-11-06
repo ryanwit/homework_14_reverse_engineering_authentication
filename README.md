@@ -34,7 +34,7 @@ NPM -
 
 ## Problems I faced
 
-This was a very difficult assignment 
+None
 
 ## Credits
 
@@ -46,7 +46,7 @@ Ryan Witherspoon
 ## Links
 [Link to GitHub!](https://github.com/ryanwit/homework_14_reverse_engineering_authentication)
 
-[Link to Google Document!](https://mighty-brushlands-34914.herokuapp.com/)
+[Link to Google Document!](https://docs.google.com/document/d/1V48P7X36xGFH_9_rkK2PKhEn7bwDYw9bI-I_YfAso4g/edit?usp=sharing/)
 
 
 
