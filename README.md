@@ -21,8 +21,16 @@ To use application run an npm install and use node to run application - please s
 Not Applicable 
 
 ## Technologies Used
-
-NPM - Inquirer Package, MySql, JavaScript, PicResize, Heroku, Bootstrap
+```
+NPM -
+    "bcryptjs": "2.4.3",
+    "express": "^4.17.0",
+    "express-session": "^1.16.1",
+    "mysql2": "^1.6.5",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^5.8.6"
+```
 
 ## Problems I faced
 
